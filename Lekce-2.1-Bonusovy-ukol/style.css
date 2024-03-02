@@ -1,0 +1,30 @@
+body {
+  font-family: helvetica, sans-serif;
+  line-height: 1.5;
+}
+h1,
+h2 {
+  color: rgb(184, 71, 10);
+}
+.velke-pismo {
+  text-transform: uppercase;
+}
+.foto {
+  width: 25%;
+}
+.tucne-pismo {
+  font-weight: bold;
+}
+.podtrzeny-text {
+  text-decoration: underline;
+}
+a {
+  color: rgb(184, 43, 10);
+}
+.popis-obrazku {
+  font-style: italic;
+  font-size: 14px;
+}
+.zdroj-textu {
+  font-style: italic;
+}
